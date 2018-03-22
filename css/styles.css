@@ -1,0 +1,8 @@
+#turtle, #snake, #monkey {
+  display: none;
+}
+
+img {
+  max-width: 450px;
+  max-height: 360px;
+}
